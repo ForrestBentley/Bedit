@@ -1,0 +1,30 @@
+B-Edit Production Deployment Instructions:
+
+1) Delete H:\BEdit\Prod\Bedit directory (or leave and copy only new files here, then move to step 3)
+2) Create H:\BEdit\Prod\Bedit directory & copy all important directories/files from laptop to H:\BEdit\Prod\Bedit directories
+3) Delete c:\bedit directory from desktop PC
+4) Copy H:\BEdit\Prod\Bedit to c:\ on desktop PC
+5) Copy c:\bedit\bedit.exe and c:\bedit\beditwin.exe to c:\windows\system32, and also to c:\bedit\beditwin\builder
+6) Remove non-FGB links from builder.mnu (Eclipse, XAMPP,Convert, Soap, Toad, Fiddler, Commercial Search)
+7) Test all functions in Builder on desktop PC
+8) Zip c:\bedit on desktop creating bedit.zip 
+	a) start All Programs
+	b) PKZIP
+	c) PKZIP for Windows
+	d) click Add button
+	e) click c:\ on left
+	f) click bedit on right
+	g) click the OK button
+	h) store bedit.zip under c:\bedit
+9) Copy bedit.zip to h:\bedit directory (as a backup)
+10) Copy h:\bedit\bedit.zip to laptop c:\bedit
+11) Publish bedit.zip to bedit gefolders (http://libraries.ge.com/foldersIndex.do?entity_id=40031078101&sid=101)
+	Update gefolders as required	bedit-guide.docx
+					Builderguilde.docx
+					Bedit-install.txt
+12) Remove c:\bedit directory on desktop pc
+13) open the GE Folders bedit.zip & expand into c:\
+14) Test Analysis System again
+16) Email update description to all users including gefolders link
+17) Save the update email to c:\bedit\UpdateMessages
+18) Move all current backup directories to yyyy-backups for c:\bedit, c:\bedit\beditwin, c:\bedit\beditwin\builder

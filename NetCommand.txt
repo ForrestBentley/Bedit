@@ -1,0 +1,2 @@
+net use \\3.162.141.104\DropBox pi314 /user:labtest
+copy D:\JenkinsBackup\jenkins_backup.zip \\3.162.141.104\DropBox\JenkinsBackup\jenkins_backup_cmf-2ua3101vnr.zip

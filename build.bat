@@ -1,0 +1,2 @@
+cls
+bcc32 BEDIT.c BEDIT2.c BEDIT3.c BEDIT4.c

@@ -1,0 +1,18 @@
+=========================================
+B-Edit Control Install steps:
+=========================================
+1) Expand bedit.zip into c: which will create the c:\bedit directory and subdirectories
+2) copy c:\bedit\bedit.exe c:\windows\system32 (or somewhere in your path)
+3) copy c:\bedit\beditwin\beditwin.exe c:\windows\system32 (or somewhere in your path)
+4) Create a desktop shortcut "c:\bedit\beditwin\beditwin.exe call c:\bedit\beditwin\builder\builder.bed"
+		              Note: Make sure it's set to start in c:\bedit\beditwin\builder
+
+Launch the B-Edit Control System by double-clicking the Builder shortcut after setting it up.
+
+For a full description of functions and use of the tools contained in the B-Edit Control System,
+click the Help menu selection, then click B-Edit Control System User's Guide.
+
+For a full description of the B-Edit language click the Help menu selection, 
+then click B-Edit User's Guide/Language Reference.
+
+Contact Forrest Bentley with any questions.
